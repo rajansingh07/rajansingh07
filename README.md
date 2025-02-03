@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://aquamarine-sawine-9113f8.netlify.app/](https://aquamarine-sawine-9113f8.netlify.app/)
 
-- 📝 I regularly write articles on web development, front-end technologies, and my learning journey. Stay tuned for upcoming posts on LinkedIn! [https://www.linkedin.com/in/rajan-kumar-661a83295/](https://www.linkedin.com/in/rajan-kumar-661a83295/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajan-kumar-661a83295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan-kumar-661a83295" height="30" width="40" /></a>
