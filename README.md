@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajansingh09&label=Profile%20views&color=0e75b6&style=flat" alt="rajansingh09" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://aquamarine-sawine-9113f8.netlify.app/](https://aquamarine-sawine-9113f8.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://thriving-lamington-62fb70.netlify.app/](https://thriving-lamington-62fb70.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
