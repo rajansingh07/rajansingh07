@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently focused on building frontend web applications <br>
-  🧠 Always learning and exploring new technologies <br>
-  🛠️ Skilled in HTML, Tailwind CSS, JavaScript, Express.JS, Bootstrap, Java, and API's<br>
+  🌱 I’m currently focused on building frontend web applications.<br>
+  🧠 Always learning and exploring new technologies.<br>
+  🛠️ Skilled in HTML, Tailwind CSS, JavaScript, Express.JS, Bootstrap, Java, and API's.<br>
   📫 Reach me at <strong>sunaharasuman2004@gmail.com</strong>
 </p>
 
@@ -26,6 +26,7 @@ Check out all my projects live 👉 [**My Portfolio Website**](https://thriving-
   <a href="https://linkedin.com/in/rajan-kumar-661a83295" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
+  
   <a href="https://www.leetcode.com/rajankumar09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode" />
   </a>
@@ -63,9 +64,9 @@ Check out all my projects live 👉 [**My Portfolio Website**](https://thriving-
 
 ## 🚀 Highlight Projects
 
-- 🛒 [ApnaKart](https://github.com/rajansingh09/ApnaKart) – A dynamic eCommerce shopping site  
-- 🧠 [LearnGen-AI](https://github.com/rajansingh09/LearnGen-AI) – AI-powered personalized learning companion  
-- 🐍 [Snake Game](https://github.com/rajansingh09/Snake-Game) – Classic snake game in JavaScript  
+- 🛒 [ApnaKart](https://github.com/rajansingh09/ApnaKart) – A dynamic eCommerce shopping site.  
+- 🧠 [LearnGen-AI](https://github.com/rajansingh09/LearnGen-AI) – AI-powered personalized learning companion.  
+- 🐍 [Snake Game](https://github.com/rajansingh09/Snake-Game) – Classic snake game in JavaScript.  
 
 ---
 
