@@ -8,7 +8,7 @@
 <p align="center">
   🌱 I’m currently focused on building frontend web applications <br>
   🧠 Always learning and exploring new technologies <br>
-  🛠️ Skilled in Frontend, APIs<br>
+  🛠️ Skilled in HTML, Tailwind CSS, JavaScript, Express.JS, Bootstrap, Java, and API's<br>
   📫 Reach me at <strong>sunaharasuman2004@gmail.com</strong>
 </p>
 
