@@ -65,7 +65,7 @@ Check out all my projects live 👉 [**My Portfolio Website**](https://thriving-
 ## 🏅 Achievements
 
 <p align="left">
-  <img src="https://res.cloudinary.com/dch4tdddp/image/upload/v1753111534/Gssoc_Contributor_s_badge_axkzly.jpg" alt="GSSoC Contributor Badge" width="120" />
+  <img src="https://res.cloudinary.com/dch4tdddp/image/upload/v1753111869/Adobe_Express_-_file_v8uy4v.png" alt="GSSoC Contributor Badge" width="120" />
 </p>
 
 🌟 Proud **Contributor** at [Girlscript Summer of Code](https://gssoc.girlscript.tech/) 💛
