@@ -62,6 +62,16 @@ Check out all my projects live 👉 [**My Portfolio Website**](https://thriving-
 
 ---
 
+## 🏅 Achievements
+
+<p align="left">
+  <img src="[YOUR_BADGE_IMAGE_LINK](https://res.cloudinary.com/dch4tdddp/image/upload/v1753111534/Gssoc_Contributor_s_badge_axkzly.jpg)" alt="GSSoC Contributor Badge" width="120" />
+</p>
+
+🌟 Proud **Contributor** at [Girlscript Summer of Code](https://gssoc.girlscript.tech/) 💛
+
+---
+
 ## 🚀 Highlight Projects
 
 - 🛒 [ApnaKart](https://github.com/rajansingh09/ApnaKart) – A dynamic eCommerce shopping site.  
