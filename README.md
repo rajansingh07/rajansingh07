@@ -1,77 +1,72 @@
-<h1 align="center">Hey 👋, I'm Rajan Kumar</h1>
-<h3 align="center">Frontend Developer | Ex Technical Head @ Xenon Arena | Crafting Modern Web Experiences 🚀</h3>
+<!-- Rajan Kumar - GitHub Profile README -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajansingh09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/rajansingh09/rajansingh09/main/xenon_arena_logo.jfif" width="120" alt="Xenon Arena Logo" />
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Rajan+Kumar+👋;Frontend+Developer+from+India🇮🇳;Ex+Technical+Head+@+Xenon+Arena;Building+Modern+Web+Experiences+🚀" alt="Typing SVG" />
+  </a>
+</h1>
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajansingh09/rajansingh09/main/xenon_arena_logo.jfif" alt="Xenon Arena Logo" width="100" height="100"/>
+  <a href="https://linkedin.com/in/rajan-kumar-661a83295" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/rajankumar09" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:sunaharasuman2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajansingh07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💼 About Me  
 
-I’m **Rajan Kumar**, a passionate **Frontend Developer** from India with **10 months of hands-on experience** in building modern, responsive, and performance-driven web applications.  
-
-I love turning ideas into **clean, functional, and visually appealing** digital experiences using **HTML**, **Tailwind CSS**, **JavaScript**, and **React**. My focus is on writing **maintainable code**, improving **performance**, and creating **intuitive interfaces** that make technology feel effortless.  
-
-I’m always exploring new tools, frameworks, and backend integrations to expand my full-stack skills. Whether it’s designing frontends, optimizing performance, or leading a dev team — I aim to combine **creativity** with **technical precision** in every project.  
+💻 I’m **Rajan Kumar**, a **Frontend Developer** from India with **10 months of experience**, specializing in **HTML**, **Tailwind CSS**, **JavaScript**, and **React**.  
+🚀 Former **Technical Head at Xenon Arena**, where I led a small team to build high-performance web applications.  
+🎯 I love turning creative ideas into scalable, elegant web solutions.  
+🌱 Constantly learning backend development, Firebase, and API integrations to become a **Full-Stack Developer**.  
 
 ---
 
-## 💻 Experience  
+## 💼 Experience  
 
 **🧩 Xenon Arena** — *Bhopal, Madhya Pradesh (Hybrid)*  
 **Frontend Developer → Ex Technical Head**  
 📅 *Feb 2024 – Nov 2024*  
 
-- Started as a **Frontend Developer**, focused on building responsive and high-performance interfaces using HTML, Tailwind CSS, and JavaScript.  
-- Promoted to **Technical Head** for consistent performance, innovation, and leadership.  
-- Led a small team, overseeing **front-end architecture**, **UI/UX improvements**, and **deployment workflows**.  
-- Integrated **Firebase Realtime Database** and **Firestore** for managing tournaments, players, and match data.  
-- Implemented **payment APIs** for secure registrations and transactions.  
-- Improved site speed, UI consistency, and user engagement through optimization and testing.  
-
----
-
-## 💼 Portfolio  
-
-🎨 Explore my live work here → [**My Portfolio Website**](https://thriving-lamington-62fb70.netlify.app/)  
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/rajan-kumar-661a83295" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/rajankumar09" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode" />
-  </a>
-</p>
+- Designed responsive and interactive UIs using **HTML, Tailwind CSS, and JavaScript**.  
+- Integrated **Firebase Realtime Database** and **Firestore** for player and match data.  
+- Led UI/UX improvements, deployments, and performance optimizations.  
+- Worked with **payment APIs** for secure tournament registrations.  
+- Mentored junior developers and maintained front-end code quality.  
 
 ---
 
 ## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap,express,java,git,linux,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap,express,java,firebase,git,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Highlight Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajansingh07&show_icons=true&theme=radical" alt="Rajan's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansingh07&theme=radical" alt="Rajan's GitHub Streak" />
-</p>
+| Project | Description |
+|----------|--------------|
+| 🛒 [**ApnaKart**](https://github.com/rajansingh09/ApnaKart) | Dynamic eCommerce web app with product management, filtering, and payments. |
+| 🧠 [**LearnGen-AI**](https://github.com/rajansingh09/LearnGen-AI) | AI-powered EdTech platform for personalized and curriculum-based learning. |
+| 🕹️ [**Snake Game**](https://github.com/rajansingh09/Snake-Game) | Classic Snake Game built with JavaScript and modern UI styling. |
 
 ---
 
@@ -85,16 +80,22 @@ I’m always exploring new tools, frameworks, and backend integrations to expand
 
 ---
 
-## 🚀 Highlight Projects  
+## 📊 GitHub Stats  
 
-| Project | Description |
-|----------|--------------|
-| 🛒 [**ApnaKart**](https://github.com/rajansingh09/ApnaKart) | Dynamic eCommerce web app with product management, payments, and filtering. |
-| 🧠 [**LearnGen-AI**](https://github.com/rajansingh09/LearnGen-AI) | AI-powered EdTech web app for personalized, curriculum-based learning. |
-| 🕹️ [**Snake Game**](https://github.com/rajansingh09/Snake-Game) | Classic JavaScript snake game redesigned with modern UI and smooth controls. |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajansingh07&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansingh07&theme=tokyonight" height="160" />
+</p>
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting! Let’s connect, collaborate, and build something amazing together 🤝
+## ✨ Fun Fact  
+
+💬 I love solving challenges, designing clean UIs, and experimenting with new tech.  
+⚡ When I’m not coding, you’ll probably find me brainstorming creative ideas or exploring design trends.  
+
+---
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+Let's+build+something+amazing+🔥" />
 </p>
