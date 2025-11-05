@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/rajankumar09" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:sunaharasuman2004@gmail.com" target="_blank">
+  <a href="mailto:rajansingh20046@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/rajansingh07" target="_blank">
