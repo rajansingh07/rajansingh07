@@ -92,7 +92,6 @@
 ⚡ When I’m not coding, you’ll probably find me brainstorming creative ideas or exploring design trends.  
 
 ---
-
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting%21+Let%27s+build+something+amazing+%F0%9F%94%A5"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting%21+Let%27s+build+something+amazing+%F0%9F%94%A5" alt="Thanks for visiting! Let's build something amazing 🔥" />
 </p>
