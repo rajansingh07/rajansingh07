@@ -94,5 +94,5 @@
 ---
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+Let's+build+something+amazing+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let%27s+build+something+amazing+🔥" />
 </p>
