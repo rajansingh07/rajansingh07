@@ -38,7 +38,7 @@
 ## 💼 Experience  
 
 **🧩 Xenon Arena** — *Bhopal, Madhya Pradesh (Hybrid)*  
-**Frontend Developer → Ex Technical Head**  
+**Frontend Developer → Technical Head**  
 📅 *Feb 2024 – Nov 2024*  
 
 - Designed responsive and interactive UIs using **HTML, Tailwind CSS, and JavaScript**.  
