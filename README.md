@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Rajan Kumar</h1> <h3 align="center">Frontend Developer | Ex Technical Head | Crafting Modern Web Experiences 🚀</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajansingh09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h1 align="center">Hey 👋, I'm Rajan Kumar</h1> <h3 align="center">Frontend Developer | Ex Technical Head @ Xenon Arena | Crafting Modern Web Experiences 🚀</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajansingh09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 👨‍💼 About Me
 
 I’m Rajan Kumar, a passionate Frontend Developer from India with 10 months of hands-on experience in building modern, responsive, and performance-driven web applications.
@@ -11,7 +11,7 @@ I’m always exploring new tools, frameworks, and backend integrations to expand
 
 🧩 Xenon Arena — Bhopal, Madhya Pradesh (Hybrid)
 Frontend Developer → Ex Technical Head
-📅 Feb 2024 – Oct 2024 · 10 months
+📅 Feb 2024 – Nov 2024
 
 Started as a Frontend Developer, focused on building responsive and high-performance interfaces using HTML, Tailwind CSS, and JavaScript.
 
