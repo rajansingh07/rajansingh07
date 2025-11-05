@@ -34,7 +34,7 @@ Improved site speed, UI consistency, and user engagement through optimization an
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap,express,java,git,linux,firebase,vscode" /> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajansingh09&show_icons=true&theme=radical" alt="Rajan's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansingh09&theme=radical" alt="Rajan's GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajansingh07&show_icons=true&theme=radical" alt="Rajan's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansingh07&theme=radical" alt="Rajan's GitHub Streak" /> </p>
 🏅 Achievements
 <p align="center"> <img src="https://res.cloudinary.com/dch4tdddp/image/upload/v1753111869/Adobe_Express_-_file_v8uy4v.png" alt="GSSoC Badge" width="120" /> </p>
 
