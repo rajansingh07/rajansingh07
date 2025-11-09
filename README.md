@@ -38,10 +38,8 @@
 ## 💼 Experience  
 
 **🧩 Xenon Arena** — *Bhopal, Madhya Pradesh (Hybrid)*  
-**Technical Head**
-📅 *May 2025 – Nov 2025*  
-**Frontend Developer**  
-📅 *Feb 2025 – Apr 2025*  
+**Technical Head** | 📅 *May 2025 – Nov 2025*  
+**Frontend Developer** | 📅 *Feb 2025 – Apr 2025*  
 
 - Designed responsive and interactive UIs using **HTML, Tailwind CSS, and JavaScript**.  
 - Integrated **Firebase Realtime Database** and **Firestore** for player and match data.  
