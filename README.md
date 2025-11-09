@@ -40,7 +40,6 @@
 **🧩 Xenon Arena** — *Bhopal, Madhya Pradesh (Hybrid)*  
 **Technical Head**
 📅 *May 2025 – Nov 2025*  
-
 **Frontend Developer**  
 📅 *Feb 2025 – Apr 2025*  
 
