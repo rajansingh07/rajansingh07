@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Web+Developer+from+India+🇮🇳;Tech+Lead+@+Xenon+Arena;Exploring+Generative+AI+%26+Automation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Web+Developer+from+India+🇮🇳; Technical+Head+@+Xenon+Arena;Exploring+Generative+AI+%26+Automation"/>
   </a>
 </h1>
 
@@ -28,7 +28,7 @@
 ## 👨‍💼 About Me
 
 I’m **Rajan Kumar**, a web developer who enjoys building clean, simple and reliable user experiences.  
-Currently working as the **Tech lead @ Xenon Arena**, where I manage development, performance improvements and feature rollouts.  
+Currently working as the **Technical Head @ Xenon Arena**, where I manage development, performance improvements and feature rollouts.  
 My work focuses on practical, user-first solutions backed by solid code.  
 Expanding my skills in backend development and cloud to move toward full-stack work.
 
