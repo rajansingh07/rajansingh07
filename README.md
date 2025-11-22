@@ -27,10 +27,10 @@
 
 ## 👨‍💼 About Me
 
-💻 I’m **Rajan Kumar**, a web developer who enjoys building clean, simple and reliable user experiences.  
-🚀 Currently working as the **Tech Lead at Xenon Arena**, where I handle UI development, performance improvements and feature rollouts.  
-🎯 My work focuses on practical, user-first solutions backed by solid code.  
-🌱 Expanding my skills in backend development and cloud to move toward full-stack work.
+I’m **Rajan Kumar**, a web developer who enjoys building clean, simple and reliable user experiences.  
+Currently working as the **Tech lead @ Xenon Arena**, where I manage development, performance improvements and feature rollouts.  
+My work focuses on practical, user-first solutions backed by solid code.  
+Expanding my skills in backend development and cloud to move toward full-stack work.
 
 ---
 
