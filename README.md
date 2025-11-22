@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Web+Developer+from+India+🇮🇳;Tech+lead+@+Xenon+Arena;Exploring+Generative+AI+%26; Advanced+Automation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Web+Developer+from+India+🇮🇳;Tech+Lead+@+Xenon+Arena;Exploring+Generative+AI+%26+Automation"/>
   </a>
 </h1>
 
@@ -25,30 +25,30 @@
 
 ---
 
-## 👨‍💼 About Me  
+## 👨‍💼 About Me
 
-💻 I’m **Rajan Kumar**, a **Frontend Developer** from India with hands-on experience in **HTML**, **Tailwind CSS**, **JavaScript**, and **React**.  
-🚀 Currently the **Tech Lead at Xenon Arena**, where I focus on building smooth, reliable and scalable web experiences.  
-🎯 I enjoy shaping ideas into functional, clean products with a strong focus on usability.  
-🌱 Learning backend development and cloud tools to grow into a **Full-Stack Developer**.  
+💻 I’m **Rajan Kumar**, a frontend developer who enjoys building clean, simple and reliable user experiences.  
+🚀 Currently working as the **Tech Lead at Xenon Arena**, where I handle UI development, performance improvements and feature rollouts.  
+🎯 My work focuses on practical, user-first solutions backed by solid code.  
+🌱 Expanding my skills in backend development and cloud to move toward full-stack work.
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
 **🧩 Xenon Arena — Bhopal, Madhya Pradesh (Hybrid)**  
-**Technical Head** | 📅 *May 2025 – Nov 2025*  
-**Frontend Developer** | 📅 *Feb 2025 – Apr 2025*  
+**Technical Head** | *May 2025 – Nov 2025*  
+**Frontend Developer** | *Feb 2025 – Apr 2025*
 
-- Built responsive and interactive interfaces using **HTML**, **Tailwind CSS** and **JavaScript**.  
-- Connected Firebase Realtime Database and Firestore for storing player and match data.  
-- Led UI improvements, deployments and performance upgrades.  
-- Integrated payment workflows for tournament registrations.  
-- Guided junior developers and maintained code consistency across projects.
+- Developed responsive and interactive interfaces using **HTML**, **Tailwind**, and **JavaScript**.  
+- Integrated Firebase Realtime Database and Firestore for player and match data.  
+- Improved UI consistency, handled deployments, and optimized performance.  
+- Worked on payment integrations for tournament registrations.  
+- Supported junior developers and maintained code quality across projects.
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap,express,java,firebase,git,linux,vscode" />
@@ -56,27 +56,27 @@
 
 ---
 
-## 🚀 Highlight Projects  
+## 🚀 Highlight Projects
 
 | Project | Description |
 |--------|-------------|
-| 🛒 **ApnaKart** | eCommerce platform with product listing, filtering and integrated payments. |
-| 🧠 **LearnGen-AI** | AI-driven learning platform that delivers personalized study experiences. |
-| 🕹️ **Snake Game** | Classic game built with JavaScript and a modern interface. |
+| 🛒 **ApnaKart** | Simple eCommerce platform with product listing, filtering, and a working payment flow. |
+| 🧠 **LearnGen-AI** | AI learning tool built to deliver tailored study help using modern AI methods. |
+| 🕹️ **Snake Game** | Classic game recreated with JavaScript and upgraded visuals. |
 
 ---
 
-## 🏅 Achievements  
+## 🏅 Achievements
 
 <p align="center">
   <img src="https://res.cloudinary.com/dch4tdddp/image/upload/v1753111869/Adobe_Express_-_file_v8uy4v.png" width="120" />
 </p>
 
-🌟 Contributor at **GirlScript Summer of Code (GSSoC)**  
+🌟 Contributor at **GirlScript Summer of Code (GSSoC)**
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajansingh07&show_icons=true&theme=tokyonight" height="160" />
@@ -85,13 +85,13 @@
 
 ---
 
-## ✨ Fun Fact  
+## ✨ Fun Fact
 
-💬 I enjoy solving challenges, designing clean user interfaces, and exploring new tools.  
-⚡ Outside of coding, I like brainstorming new project ideas and learning design trends.  
+💬 I like solving small technical problems, designing simple interfaces, and trying new tools.  
+⚡ When I’m not coding, I enjoy planning new project ideas and exploring design trends.
 
 ---
 
-<p align="center"> 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!+Let's+build+something+amazing+🔥" />
 </p>
