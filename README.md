@@ -27,7 +27,7 @@
 
 ## 👨‍💼 About Me
 
-💻 I’m **Rajan Kumar**, a frontend developer who enjoys building clean, simple and reliable user experiences.  
+💻 I’m **Rajan Kumar**, a web developer who enjoys building clean, simple and reliable user experiences.  
 🚀 Currently working as the **Tech Lead at Xenon Arena**, where I handle UI development, performance improvements and feature rollouts.  
 🎯 My work focuses on practical, user-first solutions backed by solid code.  
 🌱 Expanding my skills in backend development and cloud to move toward full-stack work.
@@ -37,7 +37,7 @@
 ## 💼 Experience
 
 **🧩 Xenon Arena — Bhopal, Madhya Pradesh (Hybrid)**  
-**Technical Head** | *May 2025 – Nov 2025*  
+**Technical Head** | *May 2025*  
 **Frontend Developer** | *Feb 2025 – Apr 2025*
 
 - Developed responsive and interactive interfaces using **HTML**, **Tailwind**, and **JavaScript**.  
