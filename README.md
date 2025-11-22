@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Frontend+Developer+from+India+🇮🇳;Former-Technical+Head+at+Xenon+Arena;Building+Modern+Web+Experiences+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Frontend+Developer+from+India+🇮🇳;Tech+lead+@+Xenon+Arena; Exploring+Generative+AI+&+Adavanced+ Automation" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -29,7 +29,7 @@
 ## 👨‍💼 About Me  
 
 💻 I’m **Rajan Kumar**, a **Frontend Developer** from India with **10 months of experience**, specializing in **HTML**, **Tailwind CSS**, **JavaScript**, and **React**.  
-🚀 Former **Technical Head at Xenon Arena**, where I led a small team to build high-performance web applications.  
+🚀 **Tech lead @ Xenon Arena**, where I led a small team to build high-performance web applications.  
 🎯 I love turning creative ideas into scalable, elegant web solutions.  
 🌱 Constantly learning backend development, Firebase, and API integrations to become a **Full-Stack Developer**.  
 
