@@ -2,10 +2,9 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Frontend+Developer+from+India+🇮🇳;Tech+lead+@+Xenon+Arena; Exploring+Generative+AI+&+Adavanced+ Automation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajan+Kumar+👋;Web+Developer+from+India+🇮🇳;Tech+lead+@+Xenon+Arena;Exploring+Generative+AI+%26+Advanced+Automation" />
   </a>
 </h1>
-
 
 ---
 
@@ -28,24 +27,24 @@
 
 ## 👨‍💼 About Me  
 
-💻 I’m **Rajan Kumar**, a **Frontend Developer** from India with **10 months of experience**, specializing in **HTML**, **Tailwind CSS**, **JavaScript**, and **React**.  
-🚀 **Tech lead @ Xenon Arena**, where I led a small team to build high-performance web applications.  
-🎯 I love turning creative ideas into scalable, elegant web solutions.  
-🌱 Constantly learning backend development, Firebase, and API integrations to become a **Full-Stack Developer**.  
+💻 I’m **Rajan Kumar**, a **Frontend Developer** from India with hands-on experience in **HTML**, **Tailwind CSS**, **JavaScript**, and **React**.  
+🚀 Currently the **Tech Lead at Xenon Arena**, where I focus on building smooth, reliable and scalable web experiences.  
+🎯 I enjoy shaping ideas into functional, clean products with a strong focus on usability.  
+🌱 Learning backend development and cloud tools to grow into a **Full-Stack Developer**.  
 
 ---
 
 ## 💼 Experience  
 
-**🧩 Xenon Arena** — *Bhopal, Madhya Pradesh (Hybrid)*  
+**🧩 Xenon Arena — Bhopal, Madhya Pradesh (Hybrid)**  
 **Technical Head** | 📅 *May 2025 – Nov 2025*  
 **Frontend Developer** | 📅 *Feb 2025 – Apr 2025*  
 
-- Designed responsive and interactive UIs using **HTML, Tailwind CSS, and JavaScript**.  
-- Integrated **Firebase Realtime Database** and **Firestore** for player and match data.  
-- Led UI/UX improvements, deployments, and performance optimizations.  
-- Worked with **payment APIs** for secure tournament registrations.  
-- Mentored junior developers and maintained front-end code quality.  
+- Built responsive and interactive interfaces using **HTML**, **Tailwind CSS** and **JavaScript**.  
+- Connected Firebase Realtime Database and Firestore for storing player and match data.  
+- Led UI improvements, deployments and performance upgrades.  
+- Integrated payment workflows for tournament registrations.  
+- Guided junior developers and maintained code consistency across projects.
 
 ---
 
@@ -60,20 +59,20 @@
 ## 🚀 Highlight Projects  
 
 | Project | Description |
-|----------|--------------|
-| 🛒 [**ApnaKart**](https://github.com/rajansingh09/ApnaKart) | Dynamic eCommerce web app with product management, filtering, and payments. |
-| 🧠 [**LearnGen-AI**](https://github.com/rajansingh09/LearnGen-AI) | AI-powered EdTech platform for personalized and curriculum-based learning. |
-| 🕹️ [**Snake Game**](https://github.com/rajansingh09/Snake-Game) | Classic Snake Game built with JavaScript and modern UI styling. |
+|--------|-------------|
+| 🛒 **ApnaKart** | eCommerce platform with product listing, filtering and integrated payments. |
+| 🧠 **LearnGen-AI** | AI-driven learning platform that delivers personalized study experiences. |
+| 🕹️ **Snake Game** | Classic game built with JavaScript and a modern interface. |
 
 ---
 
 ## 🏅 Achievements  
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dch4tdddp/image/upload/v1753111869/Adobe_Express_-_file_v8uy4v.png" alt="GSSoC Badge" width="120" />
+  <img src="https://res.cloudinary.com/dch4tdddp/image/upload/v1753111869/Adobe_Express_-_file_v8uy4v.png" width="120" />
 </p>
 
-🌟 **Contributor at [GirlScript Summer of Code (GSSoC)](https://gssoc.girlscript.tech/)**  
+🌟 Contributor at **GirlScript Summer of Code (GSSoC)**  
 
 ---
 
@@ -88,10 +87,11 @@
 
 ## ✨ Fun Fact  
 
-💬 I love solving challenges, designing clean UIs, and experimenting with new tech.  
-⚡ When I’m not coding, you’ll probably find me brainstorming creative ideas or exploring design trends.  
+💬 I enjoy solving challenges, designing clean user interfaces, and exploring new tools.  
+⚡ Outside of coding, I like brainstorming new project ideas and learning design trends.  
 
 ---
+
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting%21+Let%27s+build+something+amazing+%F0%9F%94%A5" alt="Thanks for visiting! Let's build something amazing 🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!+Let's+build+something+amazing+🔥" />
 </p>
