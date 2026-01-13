@@ -35,16 +35,31 @@ Expanding my skills in backend development and cloud to move toward full-stack w
 ---
 
 ## 💼 Experience
+**🧩 Zenix Automotive Pvt. Ltd.
+** Full-Stack Developer || Jan 2025 - Present**
+
+Contributing to the development and scaling of the Chargeflow EV charging platform, working across the full technology stack to deliver secure, scalable, and high-performance digital solutions.
+
+- Developed and maintained frontend features using the MERN stack
+- Built and integrated backend services and RESTful APIs for core platform functionality
+- Assisted in database design and architecture to ensure efficient data management
+- Supported system design, product engineering, and deployment processes
+- Followed cybersecurity best practices and assisted with VAPT processes to strengthen platform security
+- Collaborated with product, design, and operations teams to translate EV charging challenges into practical solutions
+- Focused on performance optimization, learning, and timely delivery of project milestones
+
 
 **🧩 Xenon Arena — Bhopal, Madhya Pradesh (Hybrid)**  
-**Technical Head** | *May 2025 – Present*  
-**Frontend Developer** | *Feb 2025 – Apr 2025*
+**Technical Head** || *May 2025 – Dec 2025*  
+**Frontend Developer** || *Feb 2025 – Apr 2025*
 
-- Developed responsive and interactive interfaces using **HTML**, **Tailwind**, and **JavaScript**.  
-- Integrated Firebase Realtime Database and Firestore for player and match data.  
-- Improved UI consistency, handled deployments, and optimized performance.  
-- Worked on payment integrations for tournament registrations.  
-- Supported junior developers and maintained code quality across projects.
+Led platform development and technical operations for a modern esports ecosystem, managing architecture, feature delivery, and cross-team collaboration. Contributed to building responsive, scalable frontend components and integrating backend systems to ensure smooth, high-performance user experiences.
+
+- Drove end-to-end platform development and technical execution
+- Defined and implemented technical strategy, system design, and architecture planning
+- Managed and optimized systems supporting esports tournaments and player workflows
+- Coordinated frontend-backend integration for seamless interaction
+- Ensured platform stability, performance, and scalability
 
 ---
 
