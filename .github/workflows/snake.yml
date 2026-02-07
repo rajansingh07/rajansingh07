@@ -1,8 +1,8 @@
 name: Generate Snake Game
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual run
   push:
     branches:
       - main
@@ -14,21 +14,30 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
-
-      - name: Generate Snake Game
+        with:
+          ref: main
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: rajansingh07
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A
-          git commit -m "Update snake animation" || echo "No changes to commit"
-          git push
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: output
+          keep_files: false
+          commit_message: "Update snake animation"
