@@ -1,23 +1,37 @@
+<h1 style="color: #0077b5; font: bolder"><strong>Rajan Kumar</strong></h1>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.svg">
+    <img 
+      alt="GitHub Snake" 
+      src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.svg" 
+      width="1200" 
+      style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" 
+    >
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.gif" alt="GitHub Snake GIF" width="500" />
-</p> - add this in my readme
+  <img 
+    src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.gif" 
+    alt="GitHub Snake GIF" 
+    width="1200" 
+    style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"
+  />
+</p>
+
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 700px; margin: auto; padding: 20px; background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <h2 style="color: #0077b5;">👋 Hi! I’m <strong>Rajan Kumar</strong></h2>
+  <h3 style="color: #0077b5; font: bolder">👋 Hi I’m <strong>Rajan Kumar</strong></h3>
   <ul style="list-style: none; padding: 0; margin: 10px 0 0 0;">
     <li>💻 I'm <strong>Full-Stack Developer</strong> from India 🇮🇳</li>
+    <li>⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai</li>
     <li>⚡ I specialize in <strong>building clean, interactive, and user-friendly web applications</strong></li>
-    <li>🌐 My core focus areas are <strong>Web Development, Web3, Blockchain, and Interactive Web Projects</strong></li>
+    <li>🌐 My core focus areas are <strong>Web Development, Web3, Blockchain, and Automation</strong></li>
     <li>🏢 Currently, I work at <strong>Zenix Automotive Pvt. Ltd.</strong> as a <strong>Full-Stack Developer</strong>, contributing to the <strong>ChargeFlow EV charging platform</strong></li>
-    <li>🎮 Previously, I served as <strong>Technical Head at Xenon Arena</strong>, leading the development of a modern <strong>Esports platform</strong></li>
+    <li>💬 Previously, I served as <strong>Technical Head at Xenon Arena</strong>, leading the development of a modern <strong>Esports platform</strong></li>
     <li>🚀 I am passionate about <strong>turning ideas into real-world projects, participating in hackathons, and exploring emerging technologies</strong></li>
   </ul>
 </div>
@@ -54,9 +68,9 @@
   </div>
 </div>
 
-## 💰 Support Me
-<p align="center">
-  <a href="https://paypal.me/rajankm07">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
+<hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
+
+<p align="center" style="font-size: 18px; color: #374151;">
+  Feel free to explore my repositories and connect with me.
 </p>
+
