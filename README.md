@@ -1,4 +1,8 @@
-<h1 style="color: #0077b5; font: bolder"><strong>Rajan Kumar</strong></h1>
+<h3 style="border-bottom: 1px solid #ccc; display: inline-block; padding-bottom: 6px;">
+    <strong>Rajan Kumar</strong>
+</h3>
+
+<hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
 
 <p align="center">
   <picture>
@@ -22,22 +26,25 @@
   />
 </p>
 
+<hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 700px; margin: auto; padding: 20px; background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <h3 style="color: #0077b5; font: bolder">👋 Hi I’m <strong>Rajan Kumar</strong></h3>
   <ul style="list-style: none; padding: 0; margin: 10px 0 0 0;">
     <li>💻 I'm <strong>Full-Stack Developer</strong> from India 🇮🇳</li>
     <li>⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai</li>
-    <li>⚡ I specialize in <strong>building clean, interactive, and user-friendly web applications</strong></li>
+    <li>⚡ I specialize in <strong>building clean, Dynamic, Modern, and user-friendly web applications</strong></li>
     <li>🌐 My core focus areas are <strong>Web Development, Web3, Blockchain, and Automation</strong></li>
-    <li>🏢 Currently, I work at <strong>Zenix Automotive Pvt. Ltd.</strong> as a <strong>Full-Stack Developer</strong>, contributing to the <strong>ChargeFlow EV charging platform</strong></li>
+    <li>🏢 Currently, I work at <strong>Zenix Automotive Pvt. Ltd.</strong> as a <strong>Full-Stack Developer</strong>, contributing to the <strong>ChargeFlow EV charging                     platform</strong></li>
     <li>💬 Previously, I served as <strong>Technical Head at Xenon Arena</strong>, leading the development of a modern <strong>Esports platform</strong></li>
     <li>🚀 I am passionate about <strong>turning ideas into real-world projects, participating in hackathons, and exploring emerging technologies</strong></li>
   </ul>
 </div>
 
+<hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
+
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 700px; margin: auto; padding: 20px; background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-     <h2 style="color: #0077b5;">🛠️ Tech & Interests</h2>
+     <h3 style="color: #0077b5;">🛠️ Tech & Interests</h3>
         <ul style="list-style: none; padding: 0; margin: 10px 0 0 0;">    
            <li>🌐 Web Development (MERN, WordPress, Next.js)</li>
            <li>🔗 Web3 & Blockchain</li>
@@ -47,8 +54,10 @@
       </ul>
 </div>
 
+<hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
+
 <div style="text-align: center; margin: 20px 0;">
-  <h2 style="font-family: Arial, sans-serif; color: #333;">🌐 Connect with Me</h2>
+  <h3 style="font-family: Arial, sans-serif; color: #333;">🌐 Connect with Me</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
     <a href="https://discord.gg/flickerdev" target="_blank">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" style="transition: transform 0.2s;">
@@ -69,7 +78,6 @@
 </div>
 
 <hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
-
 <p align="center" style="font-size: 18px; color: #374151;">
   Feel free to explore my repositories and connect with me.
 </p>
