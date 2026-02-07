@@ -1,5 +1,5 @@
 <h3 style="border-bottom: 1px solid #ccc; display: inline-block; padding-bottom: 6px;">
-    <strong>Rajan Kumar</strong>
+    <strong>Rajan Kumar - Snake Game Animation.</strong>
 </h3>
 
 <hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
