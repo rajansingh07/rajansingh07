@@ -1,5 +1,15 @@
 ## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.svg">
+  </picture>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.gif" alt="GitHub Snake GIF" width="500" />
+</p>
 <!--
 **rajansingh07/rajansingh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
