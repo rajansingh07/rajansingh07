@@ -1,52 +1,58 @@
-**👋 Hi! I’m Rajan Kumar**
-I'm Full-Stack Web Developer from India 🇮🇳.
-I specialize in building clean, interactive, and user-friendly applications.
-My focus areas include Frontend development, Web3, Blockchain, and Interactive Web Projects.
-I currently work at Zenix Automotive Pvt. Ltd. as a Full-Stack Developer on the ChargeFlow EV charging platform.
-Previously, I was the Technical Head at Xenon Arena, leading the development of an Esports platform.
-I enjoy turning ideas into real-world projects, participating in hackathons, and exploring new technologies.
----
-
-## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/flickerdev) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajan-kumar-661a83295) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flickerdev) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flicker_dev) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajansingh20046@gmail.com)
-
----
-
-## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,firebase,vercel,netlify,php,java,solidity,nodejs,express,cloudflare" alt="Tech Stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.svg">
+  </picture>
 </p>
 
----
-
-## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajansingh07&theme=tokyonight&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansingh07&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajansingh07&theme=tokyonight&layout=compact&count_private=true" />
-</p>
+  <img src="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake.gif" alt="GitHub Snake GIF" width="500" />
+</p> - add this in my readme
 
----
+<div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 700px; margin: auto; padding: 20px; background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <h2 style="color: #0077b5;">👋 Hi! I’m <strong>Rajan Kumar</strong></h2>
+  <ul style="list-style: none; padding: 0; margin: 10px 0 0 0;">
+    <li>💻 I'm <strong>Full-Stack Developer</strong> from India 🇮🇳</li>
+    <li>⚡ I specialize in <strong>building clean, interactive, and user-friendly web applications</strong></li>
+    <li>🌐 My core focus areas are <strong>Web Development, Web3, Blockchain, and Interactive Web Projects</strong></li>
+    <li>🏢 Currently, I work at <strong>Zenix Automotive Pvt. Ltd.</strong> as a <strong>Full-Stack Developer</strong>, contributing to the <strong>ChargeFlow EV charging platform</strong></li>
+    <li>🎮 Previously, I served as <strong>Technical Head at Xenon Arena</strong>, leading the development of a modern <strong>Esports platform</strong></li>
+    <li>🚀 I am passionate about <strong>turning ideas into real-world projects, participating in hackathons, and exploring emerging technologies</strong></li>
+  </ul>
+</div>
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajansingh07&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+<div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 700px; margin: auto; padding: 20px; background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+     <h2 style="color: #0077b5;">🛠️ Tech & Interests</h2>
+        <ul style="list-style: none; padding: 0; margin: 10px 0 0 0;">    
+           <li>🌐 Web Development (MERN, WordPress, Next.js)</li>
+           <li>🔗 Web3 & Blockchain</li>
+           <li>⚙️ GitHub Actions & Automation</li>
+           <li>🚀 Hackathons & Open-Source</li>
+           <li>🎮 Dynamic Web & Application Development</li>
+      </ul>
+</div>
 
----
-
-## 📈 Top Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rajansingh07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
+<div style="text-align: center; margin: 20px 0;">
+  <h2 style="font-family: Arial, sans-serif; color: #333;">🌐 Connect with Me</h2>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+    <a href="https://discord.gg/flickerdev" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" style="transition: transform 0.2s;">
+    </a>
+    <a href="https://linkedin.com/in/rajan-kumar-661a83295" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.2s;">
+    </a>
+    <a href="https://medium.com/@flickerdev" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="transition: transform 0.2s;">
+    </a>
+    <a href="https://x.com/flicker_dev" target="_blank">
+      <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" style="transition: transform 0.2s;">
+    </a>
+    <a href="mailto:rajansingh20046@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.2s;">
+    </a>
+  </div>
+</div>
 
 ## 💰 Support Me
 <p align="center">
@@ -54,10 +60,3 @@ I enjoy turning ideas into real-world projects, participating in hackathons, and
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=rajansingh07&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
