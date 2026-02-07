@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi! I’m **Rajan Kumar**, a passionate **Web Developer** from India 🇮🇳. I love building clean, interactive, and user-friendly applications.
+Hey https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF6bXlscTVoajh4aW9vbWo5bzZnN2RtbHY2em5rcnBkMWd3d2lhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif I’m **Rajan Kumar**, a passionate **Web Developer** from India 🇮🇳. I love building clean, interactive, and user-friendly applications.
 
 **Current Role:** Full-Stack Developer at **Zenix Automotive Pvt. Ltd.**, working on the **ChargeFlow EV charging platform**, contributing to frontend, backend, and cloud solutions.  
 **Previous Role:** Technical Head at **Xenon Arena**, leading Esports platform development and managing technical operations.  
