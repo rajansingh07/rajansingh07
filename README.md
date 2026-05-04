@@ -32,10 +32,10 @@
   <h3 style="color: #0077b5; font: bolder">👋 Hi I’m <strong>Rajan Kumar</strong></h3>
   <ul style="list-style: none; padding: 0; margin: 10px 0 0 0;">
     <li>💻 I'm <strong>Full-Stack Developer</strong> from India 🇮🇳</li>
-    <li>⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai</li>
+    <li>⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai, .java, .ts</li>
     <li>⚡ I specialize in <strong>building clean, Dynamic, Modern, and user-friendly web applications</strong></li>
     <li>🌐 My core focus areas are <strong>Web Development, Web3, Blockchain, and Automation</strong></li>
-    <li>🏢 Currently, I work at <strong>Zenix Automotive Pvt. Ltd.</strong> as a <strong>Full-Stack Developer</strong>, contributing to the <strong>ChargeFlow EV charging                     platform</strong></li>
+    <li>🏢 Currently, I work at <strong>Ansoz Creation</strong> as a <strong>Software Developer</strong>, contributing to the <strong>web and Iot.</strong></li>
     <li>💬 Previously, I served as <strong>Technical Head at Xenon Arena</strong>, leading the development of a modern <strong>Esports platform</strong></li>
     <li>🚀 I am passionate about <strong>turning ideas into real-world projects, participating in hackathons, and exploring emerging technologies</strong></li>
   </ul>
