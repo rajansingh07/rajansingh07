@@ -35,7 +35,7 @@
     <li>⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai, .java, .ts</li>
     <li>⚡ I specialize in <strong>building clean, Dynamic, Modern, and user-friendly web applications</strong></li>
     <li>🌐 My core focus areas are <strong>Web Development, Web3, Blockchain, and Automation</strong></li>
-    <li>🏢 Currently, I work at <strong>Ansoz Creation</strong> as a <strong>Software Developer</strong>, contributing to the <strong>web and Iot.</strong></li>
+    <li>🏢 Currently, I work at <strong>Ansoz Creation</strong> as a <strong>Software Developer</strong>, Where contributing to the <strong>Web and Iot</strong></li>
     <li>💬 Previously, I served as <strong>Technical Head at Xenon Arena</strong>, leading the development of a modern <strong>Esports platform</strong></li>
     <li>🚀 I am passionate about <strong>turning ideas into real-world projects, participating in hackathons, and exploring emerging technologies</strong></li>
   </ul>
