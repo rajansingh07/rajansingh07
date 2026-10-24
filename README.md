@@ -1,9 +1,3 @@
-<h3 style="border-bottom: 1px solid #ccc; display: inline-block; padding-bottom: 6px;">
-    <strong>Rajan Kumar - Snake Game Animation.</strong>
-</h3>
-
-<hr style="border: none; height: 0.5px; background-color: #e5e7eb; margin: 20px 0;" />
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajansingh07/rajansingh07/output/github-snake-dark.svg">
